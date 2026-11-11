@@ -1,0 +1,10 @@
+# local-only sources and caches (not needed to build the app)
+.venv/
+data-raw/
+Learning Resource/
+B_example_full/
+app/node_modules/
+app/dist/
+.DS_Store
+.claude/
+__pycache__/
